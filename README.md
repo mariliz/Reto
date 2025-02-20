@@ -7,7 +7,8 @@ random user
 index.html
 index.js
 styles.css
-
+**Ruta Github**
+https://github.com/mariliz/Reto/blob/main/index.html
 **Cada tarjeta incluye:**
 Nombre completo
 Género
