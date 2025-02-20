@@ -1,5 +1,5 @@
 # Reto
-randomuser
+random user
 
 Estructura de Proyecto
 index.html
